@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 8302b918950f18147a1899e807b52659
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 839
+        width: 124
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aaafe35a524d14183acff44ae5d2db
+      internalID: -225064568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 843
+        width: 105
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf71dcc0f6a35c458507bbbc290db0f
+      internalID: 188847417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 838
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c198a9abe35e6f8488d1689d60892a7a
+      internalID: 384822332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 38
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b684bc908161cb4c95d24d95dec809f
+      internalID: 639909885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 702
+        width: 143
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c190d0bc0da9bda48b6e2e2327020867
+      internalID: -1130002474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 601
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d11e94b59e45b348b49c42fb81c9d67
+      internalID: 1401268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 793
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74f7bd922aab74ab008d7c417dc36a
+      internalID: 1401483325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 502
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6002b708aed26fa469a9ffd17cb15c95
+      internalID: 1628843805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster(small)1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54959510e55df47912f1aef9dfa5c4
+      internalID: -1498449544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_13
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 556
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f595f82498b032408bffde794e1549f
+      internalID: 1657985677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 394
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f1f004fea06d40af3ba5e9c2d50b0
+      internalID: 1785429885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 301
+        width: 106
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5daff5839c09745a2743adfddc65e9
+      internalID: -1053470208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_16
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 465
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d230e135b2c0347b0987696d3a09e0
+      internalID: -414927151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 393
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058ff20e0e1c29944a6fde26a70d1fd1
+      internalID: 1859267838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 415
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf7bc142eed6374f8b2c0de302e4ff5
+      internalID: 1445090505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 54
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1125760fa759f1441848be77a228558d
+      internalID: -149176680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 387
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347eb21ab931204aba18cf05e0cdce8
+      internalID: -679100401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_21
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 309
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf075a3fe9563ff4ba38330927c5bb22
+      internalID: 337847679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 341
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feec87b71ed04b418374b592d1d9302
+      internalID: 1620981128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_23
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 300
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d809ba3cc44dc46abd8e3216d0a905
+      internalID: 22094500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 166
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c569f3da9ef56645a0ab215d99d20da
+      internalID: 1054727678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 213
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f84bcd29bb03c42a33619eac9fa203
+      internalID: -2093686656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 229
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf35cbb514c08e4dab089af54f0344a
+      internalID: -1507413101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 59
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba3439a46ae6f74e8bf6a193cb6da90
+      internalID: -617171996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 117
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38654c0326f760a4c84af1fea0037b3d
+      internalID: 2057884579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_29
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1
+        width: 103
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a113ce1ac925d6e4c9b046217516a9a8
+      internalID: 50910901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_30
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 134
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1530039ce49968e4aa40e808d43b2fde
+      internalID: 1560392756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_31
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2
+        width: 53
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8df35b30419b84c885acfc447be8c4
+      internalID: 275733619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6163ff134bac8474192ef8e29a43d10e
+      internalID: -581227842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 7
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dc849a8108f204c8931616f43829d6
+      internalID: 533198289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48513532fc42e149a2d7172dcd97024
+      internalID: -623694008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 850
+        width: 44
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a072ad7065da4fbb234e26cb69c43
+      internalID: 1239131042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 415
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b654b99f410496e4096445c69c28a6d6
+      internalID: 634406036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BIRDS_1_PC_4.0.0_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 531
+        width: 123
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d68b51f5ad9e341bf1c70e98527e72
+      internalID: -1770130895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster(small)2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95dd713ae7102d42a8b5d5d0e8ee604
+      internalID: -1963094244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster(small)3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78933a5847fa0b2498b9f569395d6d44
+      internalID: 1321867249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 727
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55335412e3ba266409e0919f000ab064
+      internalID: -469296105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 710
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bef12900462204182d78259f9af8da
+      internalID: -2112201654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      INGAME_BIRDS_1_PC_4.0.0_24: 1054727678
+      INGAME_BIRDS_1_PC_4.0.0_37: -1945601280
+      INGAME_BIRDS_1_PC_4.0.0_14: 1785429885
+      INGAME_BIRDS_1_PC_4.0.0_25: -2093686656
+      Smoke2: 1824103194
+      INGAME_BIRDS_1_PC_4.0.0_6: 1401268379
+      INGAME_BIRDS_1_PC_4.0.0_35: 643771027
+      INGAME_BIRDS_1_PC_4.0.0_16: -414927151
+      INGAME_BIRDS_1_PC_4.0.0_31: 275733619
+      INGAME_BIRDS_1_PC_4.0.0_23: 22094500
+      INGAME_BIRDS_1_PC_4.0.0_30: 1560392756
+      Monster(small)1: -1498449544
+      INGAME_BIRDS_1_PC_4.0.0_20: -679100401
+      INGAME_BIRDS_1_PC_4.0.0_32: -581227842
+      INGAME_BIRDS_1_PC_4.0.0_0: -225064568
+      INGAME_BIRDS_1_PC_4.0.0_18: 1445090505
+      INGAME_BIRDS_1_PC_4.0.0_7: 1401483325
+      Monster(small)2: -1963094244
+      INGAME_BIRDS_1_PC_4.0.0_3: 639909885
+      INGAME_BIRDS_1_PC_4.0.0_4: 634406036
+      Smoke1: -324291362
+      INGAME_BIRDS_1_PC_4.0.0_34: -623694008
+      INGAME_BIRDS_1_PC_4.0.0_15: -1053470208
+      INGAME_BIRDS_1_PC_4.0.0_33: 533198289
+      INGAME_BIRDS_1_PC_4.0.0_36: -1770130895
+      INGAME_BIRDS_1_PC_4.0.0_13: 1657985677
+      INGAME_BIRDS_1_PC_4.0.0_19: -149176680
+      INGAME_BIRDS_1_PC_4.0.0_21: 337847679
+      INGAME_BIRDS_1_PC_4.0.0_22: 1620981128
+      Smoke3: -1130002474
+      INGAME_BIRDS_1_PC_4.0.0_11: 782085691
+      INGAME_BIRDS_1_PC_4.0.0_29: 50910901
+      INGAME_BIRDS_1_PC_4.0.0_27: -617171996
+      INGAME_BIRDS_1_PC_4.0.0_17: 1859267838
+      INGAME_BIRDS_1_PC_4.0.0_26: -1507413101
+      Monster(small)3: 1321867249
+      INGAME_BIRDS_1_PC_4.0.0_1: 188847417
+      INGAME_BIRDS_1_PC_4.0.0_28: 2057884579
+      INGAME_BIRDS_1_PC_4.0.0_2: 384822332
+      INGAME_BIRDS_1_PC_4.0.0_10: 1628843805
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
